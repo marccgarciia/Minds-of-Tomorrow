@@ -77,3 +77,20 @@ body {
     text-align: center;
     padding: 20px;
 }
+
+.footer {
+    padding: 10px;
+    float: left;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: ;
+}
+
+@media screen and (max-width:600px) {
+    .one-column,
+    .two-column,
+    .four-column .body {
+        width: 100%;
+    }
+}
