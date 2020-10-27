@@ -88,9 +88,10 @@ body {
 }
 
 @media screen and (max-width:600px) {
-    .one-column,
     .two-column,
-    .four-column .body {
+    .one-column,
+    .four-column,
+    .footer {
         width: 100%;
     }
 }
